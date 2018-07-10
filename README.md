@@ -4,7 +4,7 @@
 
 ##### &nbsp;
 
-<img src="images/timeseries_windowing_training_crop.gif" width="75%" align="center" alt=""  title="Time Series Prediction" />
+<img src="images/timeseries_windowing_training_crop.gif" width="75%" align="middle" alt=""  title="Time Series Prediction" />
 
 ##### &nbsp;
 
