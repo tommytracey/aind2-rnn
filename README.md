@@ -2,11 +2,7 @@
 ### Term 2: Project 6
 # Recurrent Neural Networks: Time Series Prediction and Text Generation
 
-##### &nbsp;
-
-<img src="images/timeseries_windowing_training_crop.gif" width="75%" align="middle" alt=""  title="Time Series Prediction" />
-
-##### &nbsp;
+<center><img src="images/timeseries_windowing_training_crop.gif" width="70%" align="middle" alt=""  title="Time Series Prediction" /></center>
 
 # Overview
 There are two parts to this project. First, we use an RNN to predict Apple's stock price based on time series data. Second, we use an RNN to generate text sequences based excerpts from the book Sherlock Holmes.
